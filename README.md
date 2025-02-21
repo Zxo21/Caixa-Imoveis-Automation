@@ -1,7 +1,5 @@
 # Caixa-Imoveis-Automation
 
-# Automacao de Imoveis
-
 Este projeto automatiza o download, tratamento e inserção de dados de imóveis no banco de dados a partir do site da Caixa.
 
 ## Funcionalidades
